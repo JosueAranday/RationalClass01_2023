@@ -32,4 +32,4 @@ private:
 	int denominator{ 1 };
 	int wholeNum{ 0 };
 };
-#endif
+#endif 
